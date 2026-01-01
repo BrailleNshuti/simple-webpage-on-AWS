@@ -9,6 +9,7 @@ The goal of this project is to:
 •	Configure the bucket for static website hosting
 •	Access the webpage through an AWS public URL
 The result is a working “Hello World” webpage hosted in the cloud, without using any traditional web server.
+
 3.  Technologies Used
 •	Python 3.13
 •	AWS S3 (Simple Storage Service)
@@ -18,9 +19,9 @@ The result is a working “Hello World” webpage hosted in the cloud, without u
 
 4.  Project Structure
 cloud-habit-webpage/
-│
-├── aws_deploy.py     # Python script for deployment
-├── README.md         # Project documentation
+
+    aws_deploy.py     # Python script for deployment
+    README.md         # Project documentation
 
 5.  Prerequisites
 Before running the project, make sure you have:
@@ -79,6 +80,10 @@ This project is created for educational purposes as part of a university assignm
 
 
 Author
+
 Rusingiza Nshuti Braille
+
 B.Sc. Applied Artificial Intelligence
+
 IU International University of Applied Sciences
+
